@@ -1,3 +1,3 @@
 # **WebDev Summer Camp Project**
 ### Clone of Google Homepage
-### [Link](https://github.com/SatishD-042/google-clone/blob/main/googleclone.html) to the page
+### [Link](https://satishd-042.github.io/google-clone/) to the page

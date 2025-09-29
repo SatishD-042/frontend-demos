@@ -1,3 +1,15 @@
-# **WebDev Summer Camp Project**
-### Clone of Google Homepage
-### [Link](https://satishd-042.github.io/google-clone/) to the page
+# Frontend Demos
+
+---
+
+## Projects
+
+### Google Clone
+- **Description:** A clone of the Google homepage.
+- **Folder:** `google-clone/`
+- **Demo:** [<ins>Link</ins>](#)
+
+### Login Form
+- **Description:** Simple Login form layout.
+- **Folder:** `login-form/`
+- **Demo:** [<ins>Link</ins>](#)

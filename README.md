@@ -5,7 +5,7 @@
 ### Login Form
 - **Description:** Simple Login form using html and css.
 - **Folder:** `login-form/`
-- **Demo:** [<ins>Link</ins>](https://satishd-042.github.io/frontend-demos/login-form/) | login-form-react
+- **Demo:** [<ins>Link</ins>](https://satishd-042.github.io/frontend-demos/login-form/)
 
 ### Login Form using React
 - **Description:** Login form using React.

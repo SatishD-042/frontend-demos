@@ -7,11 +7,6 @@
 - **Folder:** `login-form/`
 - **Demo:** [<ins>Link</ins>](https://satishd-042.github.io/frontend-demos/login-form/)
 
-### Login Form using React
-- **Description:** Login form using React.
-- **Folder:** `login-form-react`
-- **Demo:** [<ins>Link</ins>](https://satishd-042.github.io/frontend-demos/login-form-react)
-
 ### Google Clone (Personal Project)
 - **Description:** A clone of the Google homepage.
 - **Folder:** `google-clone/`

@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Zalando+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Alan Sans", sans-serif;
+
+}
+
+body {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    /* background: gray; */
+    background: linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(34,34,34,1) 35%, rgb(15, 11, 68) 100%);
+}
+
+.calci-body {
+    border: 0.5px black solid;
+    border-radius: 15px;
+    background: transparent;
+    padding: 20px;
+    box-shadow: 0px 3px 15px rgba(113, 115, 119, .5);
+}
+
+#display {
+    /* overflow-x: auto; */
+    /* white-space: nowrap; */
+    width: 400px;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    /* border-radius: 40px; */
+    border-radius: 10px;
+    background: transparent;
+    box-shadow: 0px 3px 15px rgba(113, 115, 119, .5);
+    font-size: 40px;
+    text-align: right;
+    cursor: pointer;
+    margin-bottom: 40px;
+    color: white;
+    transition: border-radius 0.1s;
+}
+
+#display::placeholder {
+    color: white;
+}
+
+button {
+    border: none;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 20px;
+    /* border-radius: 50%; */
+    background: transparent;
+    color: white;
+    font-size: 25px;
+    box-shadow: 0px 3px 15px rgba(113, 115, 119, .5);
+    cursor: pointer;
+    transition: border-radius 0.5s;
+}
+
+button:hover {
+    /* border-radius: 10px; */
+    border-radius: 50%;
+}
+
+.equalbtn {
+    background-color: #fb7c14;
+}
+
+.operator {
+    color: #6dee0a;
+}
+
